@@ -1,4 +1,5 @@
 Number-Shifting-Game
+
 Welcome to the Number-Shifting-Game/Sliding Puzzle Game! This game is a terminal-based implementation of the classic sliding puzzle, where you rearrange numbered tiles in a 3x3  grid to reach a winning configuration.
 
 Features
